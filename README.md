@@ -26,4 +26,8 @@ Para isso em outro terminal,(caso você esteja utilizando linux) execute o coman
 ```
 npm run dev
 ```
+![Captura de Tela_Área de Seleção_20230713083439](https://github.com/lucasao98/projeto-produtos/assets/53714997/ee76a591-327f-47e3-81f7-b5979be2b553)
+E pronto, o projeto está rodando.
+***Obs: Lembrar de entrar no link do php artisan serve***
+
 
